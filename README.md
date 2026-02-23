@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sameer Tiruwa]
+# 👋 Hi, I'm Sameer Tiruwa
 ### 🛠️ DevOps Engineer | Cloud Architect | Automation Enthusiast
 
 <div align="center">
@@ -28,7 +28,7 @@ Passionate DevOps Engineer with [X] years of experience in building and maintain
 - 🌱 Learning **eBPF**, **Service Mesh (Istio)**, and **Crossplane**
 - 👯 Looking to collaborate on **CNCF projects** and **open-source DevOps tools**
 - 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, CI/CD**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **sameertiruwa1010@gmail.com**
 - 📄 Check my [Resume](https://link-to-your-resume)
 
 ---
