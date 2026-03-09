@@ -267,3 +267,8 @@ Other                    25 mins             █░░░░░░░░░░�
 <sub>Last updated automatically by GitHub Actions</sub>
 
 </div>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</di>
