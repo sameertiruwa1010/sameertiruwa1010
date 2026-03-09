@@ -6,6 +6,10 @@
 <div align="center">
   
   <img width="1600" height="480" alt="banner" align="" src="https://github.com/user-attachments/assets/83fbf172-8bb8-4eb6-867d-f25d5ae900d4" />
+  
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2F81F7,100:58A6FF" width="80%">
+</div>
 
 ![](https://komarev.com/ghpvc/?username=sameertiruwa1010) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/sameertiruwa1010?label=Followers) ![Stars](https://img.shields.io/github/stars/sameertiruwa1010?label=Stars)
 
