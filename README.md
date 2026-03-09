@@ -21,9 +21,6 @@
   align="right"
   width="315"
   style="border-radius:50%;border:3px solid #2F81F7;box-shadow:0 0 25px #2F81F7;" />
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2F81F7,100:58A6FF" width="80%">
-</div>
 
 ```js
 "use creativity";
@@ -41,6 +38,9 @@ new Person({
   passionate: !!!false,
 }).introduce();
 ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2F81F7,100:58A6FF" width="80%">
+</div>
 
 ```cmd
 C:\Users\sameer> node index.js
