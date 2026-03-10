@@ -38,10 +38,6 @@ new Person({
   passionate: !!!false,
 }).introduce();
 ```
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2F81F7,100:58A6FF" width="80%">
-</div>
-
 ```cmd
 C:\Users\sameer> node index.js
 
@@ -49,7 +45,6 @@ Hi! I'm Sameer Tiruwa — a DevOps Engineer from Nepal. 🇳🇵
 I automate infrastructure, build CI/CD pipelines,
 and make servers behave. One yaml at a time.
 ```
-
 <br clear="right"/>
 
 <div align="center">
@@ -220,8 +215,6 @@ Other                    25 mins             █░░░░░░░░░░�
 </div>
 
 <!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
 
