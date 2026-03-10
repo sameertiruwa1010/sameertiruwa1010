@@ -200,7 +200,7 @@ Other                    25 mins             █░░░░░░░░░░�
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+
 
 <h3 align="center">🤝 Connect with Me 🤝</h3>
 
@@ -219,9 +219,9 @@ Other                    25 mins             █░░░░░░░░░░�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameertiruwa1010/sameertiruwa1010/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameertiruwa1010/sameertiruwa1010/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sameertiruwa1010/sameertiruwa1010/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameertiruwa1010/sameertiruwa1010/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameertiruwa1010/sameertiruwa1010/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sameertiruwa1010/sameertiruwa1010/output/github-snake.svg">
 </picture>
 
 </div>
