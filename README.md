@@ -40,6 +40,8 @@ new Person({
   passionate: !!!false,
 }).introduce();
 ```
+<br clear="right"/>
+
 ```cmd
 C:\Users\sameer> node index.js
 
