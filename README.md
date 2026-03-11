@@ -244,7 +244,7 @@ Other                    25 mins             █░░░░░░░░░░�
 
 ## 📌 **Pinned Repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=kubernetes-operator&theme=algolia)](https://github.com/YOUR_USERNAME/kubernetes-operator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sameertiruwa1010&repo=kubernetes-operator&theme=algolia)](https://github.com/sameertiruwa1010/kubernetes-practice-labss.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=terraform-modules&theme=algolia)](https://github.com/YOUR_USERNAME/terraform-modules)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=gitops-pipeline&theme=algolia)](https://github.com/YOUR_USERNAME/gitops-pipeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=observability-stack&theme=algolia)](https://github.com/YOUR_USERNAME/observability-stack)
@@ -252,8 +252,3 @@ Other                    25 mins             █░░░░░░░░░░�
 ---
 
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</di>
