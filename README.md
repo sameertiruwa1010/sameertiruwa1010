@@ -31,11 +31,11 @@ import { Person } from "Nepal";
 new Person({
   name:     "Sameer Tiruwa",
   title:    "DevOps Engineer",
-  location: "Kathmandu, Nepal 🇳🇵",
+  location: "Kalikot, Nepal 🇳🇵",
   email:    "sameertiruwa1010@gmail.com",
   website:  "https://sameertiruwa.online",
   github:   "github.com/sameertiruwa1010",
-  building: "NyapuShell + GitCard",
+  building: "NyapuShell + git-chalak",
   open_to:  "collaborations & new opportunities",
   passionate: !!!false,
 }).introduce();
@@ -244,7 +244,7 @@ Other                    25 mins             █░░░░░░░░░░�
 
 
 <div align="center">
-  <sub>Made with ❤️ from <strong>Kathmandu, Nepal 🇳🇵</strong> · <a href="https://sameertiruwa.online">sameertiruwa.online</a></sub>
+  <sub>Made with ❤️ By Sameer Tiruwa <strong>Kalikot, Nepal 🇳🇵</strong> · <a href="https://sameertiruwa.online">sameertiruwa.online</a></sub>
 </div>
 
 
