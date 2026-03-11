@@ -163,42 +163,40 @@ Other                    25 mins             █░░░░░░░░░░�
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2F81F7,100:58A6FF" width="80%">
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
+<h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameertiruwa1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameertiruwa1010&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sameertiruwa1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2F81F7&icon_color=58A6FF&text_color=c9d1d9" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameertiruwa1010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" height="175" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameertiruwa1010&theme=tokyonight&hide_border=true" width="700" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameertiruwa1010&theme=tokyonight&hide_border=true&background=0d1117&ring=2F81F7&fire=58A6FF&currStreakLabel=2F81F7" width="700" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameertiruwa1010&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameertiruwa1010&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=2F81F7&line=58A6FF&point=ffffff" width="95%" />
 
 </div>
 
-<!--x axis divider-->
+<br/>
+
+<!-- ══════════════════ TROPHIES ══════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2F81F7,100:58A6FF" width="80%">
-</div>
 
-## 🏆 GitHub Trophies
-....
-
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
+<div align="center">
 
 ## 🔧 Open Source Projects
 
 <div align="center">
+<div align="center">
 
 [![NyapuShell](https://github-readme-stats.vercel.app/api/pin/?username=sameertiruwa1010&repo=NyapuShell&theme=tokyonight&hide_border=true)](https://github.com/sameertiruwa1010/NyapuShell)&nbsp;
-[![GitCard](https://github-readme-stats.vercel.app/api/pin/?username=sameertiruwa1010&repo=GitCard&theme=tokyonight&hide_border=true)](https://github.com/sameertiruwa1010/GitCard)
+[![git-chalak](https://github-readme-stats.vercel.app/api/pin/?username=sameertiruwa1010&repo=git-chalak&theme=tokyonight&hide_border=true)](https://github.com/sameertiruwa1010/git-chalak)&nbsp;
+
+</div>
 
 </div>
 
@@ -206,17 +204,6 @@ Other                    25 mins             █░░░░░░░░░░�
 
 
 
-<h3 align="center">🤝 Connect with Me 🤝</h3>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-tiruwa-8149b3228/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sameertiruwa)
-[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/sameertiruwa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sameertiruwa.online)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@sameertiruwa.com)
-
-</div>
 
 <!--x axis divider-->
 
@@ -230,25 +217,36 @@ Other                    25 mins             █░░░░░░░░░░�
 
 </div>
 
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
+<!-- ══════════════════ CONNECT ══════════════════ -->
 
 <div align="center">
-  Made with ❤️ by <a href="https://sameertiruwa.online" target="_blank">Sameer Tiruwa</a> · 🇳🇵 Kathmandu, Nepal
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="90%"/>
 </div>
 
-<!--x axis divider-->
+<br/>
 
-![](/assets/images/horizontal-divider-gradient.gif)
+<div align="center">
+<h2>🤝 Let's Connect</h2>
 
-## 📌 **Pinned Repositories**
+<p>I'm always open to interesting conversations, collaboration on open source, or discussing DevOps challenges over a virtual cup of <em>chiya</em> ☕🇳🇵</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sameertiruwa1010&repo=kubernetes-operator&theme=algolia)](https://github.com/sameertiruwa1010/kubernetes-practice-labss.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=terraform-modules&theme=algolia)](https://github.com/YOUR_USERNAME/terraform-modules)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=gitops-pipeline&theme=algolia)](https://github.com/YOUR_USERNAME/gitops-pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=observability-stack&theme=algolia)](https://github.com/YOUR_USERNAME/observability-stack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-tiruwa-8149b3228/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sameertiruwa.online)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sameertiruwa)
+[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/sameertiruwa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@sameertiruwa.com)
 
----
+</div>
+
+<br/>
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+
+
+<div align="center">
+  <sub>Made with ❤️ from <strong>Kathmandu, Nepal 🇳🇵</strong> · <a href="https://sameertiruwa.online">sameertiruwa.online</a></sub>
+</div>
+
+
 
 
