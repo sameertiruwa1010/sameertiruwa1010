@@ -19,10 +19,12 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/621e1cb6-e1ce-4af9-945a-407abf3d5137"
+<img src="https://github.com/user-attachments/assets/288c0144-1326-484d-9f5f-97b314136a9a"
   align="right"
   width="315"
-  style="border-radius:50%;border:3px solid #2F81F7;box-shadow:0 0 25px #2F81F7;" />
+  />
+ 
+ 
   
 
 
