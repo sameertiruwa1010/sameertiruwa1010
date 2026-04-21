@@ -56,8 +56,9 @@ and make servers behave. One yaml at a time.
 <br clear="right"/>
 
 <div align="center">
+<img width="500" height="500" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/f3ac74ac-4568-4eff-b898-b65e714dac7a" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code;Cloud+Native+Solutions;CI%2FCD+Pipelines;Kubernetes+Orchestration;Site+Reliability+Engineering;Linux+%26+Open+Source+Lover+🇳🇵" alt="Typing SVG" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-tiruwa-8149b3228/">
